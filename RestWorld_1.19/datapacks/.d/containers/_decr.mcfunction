@@ -1,0 +1,20 @@
+execute at @e[tag=anvil_container_home] run scoreboard players remove anvil_container funcs 1
+execute at @e[tag=brewing_run_home] run scoreboard players remove brewing_run funcs 1
+execute at @e[tag=ingredients_home] run scoreboard players remove ingredients funcs 1
+execute at @e[tag=only_items_home] run scoreboard players remove only_items funcs 1
+execute at @e[tag=brewing_rotate_home] run scoreboard players remove brewing_rotate funcs 1
+execute at @e[tag=bossbar_style_home] run scoreboard players remove bossbar_style funcs 1
+execute at @e[tag=experience_home] run scoreboard players remove experience funcs 1
+execute at @e[tag=brewing_home] run scoreboard players remove brewing funcs 1
+execute at @e[tag=bossbar_home] run scoreboard players remove bossbar funcs 1
+execute at @e[tag=bossbar_value_home] run scoreboard players remove bossbar_value funcs 1
+execute at @e[tag=containers_room_home] run scoreboard players remove containers_room funcs 1
+execute at @e[tag=enchanting_home] run scoreboard players remove enchanting funcs 1
+execute at @e[tag=beacon_home] run scoreboard players remove beacon funcs 1
+execute at @e[tag=strength_llama_home] run scoreboard players remove strength_llama funcs 1
+execute at @e[tag=bossbar_color_home] run scoreboard players remove bossbar_color funcs 1
+execute at @e[tag=cookers_home] run scoreboard players remove cookers funcs 1
+execute at @e[tag=carrier_home] run scoreboard players remove carrier funcs 1
+execute at @e[tag=item_home] run scoreboard players remove item funcs 1
+execute at @e[tag=survival_home] run scoreboard players remove survival funcs 1
+function restworld:containers/_cur

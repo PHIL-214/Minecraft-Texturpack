@@ -1,0 +1,1 @@
+summon piglin_brute ~0 ~2 ~0 {Tags:[piglin_brute,adult,nether,nether_mobs],HandItems:[{id:"golden_axe",Count:1b},{}],CustomName:"\"Piglin Brute\"",PersistenceRequired:True,NoAI:True,Silent:True,Rotation:[270f,0f]}

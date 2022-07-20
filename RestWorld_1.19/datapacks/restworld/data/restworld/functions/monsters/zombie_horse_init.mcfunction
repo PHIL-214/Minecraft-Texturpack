@@ -1,0 +1,2 @@
+summon zombie_horse ~-0.2 ~2 ~0 {CustomName: '"Zombie Horse (Unused)"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [270f, 0f], Silent: true, Tags: [monsters, zombie_horse, adult]}
+summon zombie_horse ~2.0 ~2 ~0.0 {Age: -2147483648, CustomName: '"Zombie Horse (Unused)"', CustomNameVisible: false, IsBaby: true, NoAI: true, PersistenceRequired: true, Rotation: [270f, 0f], Silent: true, Tags: [monsters, zombie_horse, kid]}

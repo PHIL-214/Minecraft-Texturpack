@@ -1,0 +1,1 @@
+execute if score fast clocks matches 0 at @e[tag=particles_action_home] positioned ~0 ~2 ~0 run summon llama_spit ~0 ~1.6 ~0.7 {direction: [0.0f, 0.0f, 1.0f], ExplosionPower: 1, Motion: [0.0f, 0.0f, 1.0f]}

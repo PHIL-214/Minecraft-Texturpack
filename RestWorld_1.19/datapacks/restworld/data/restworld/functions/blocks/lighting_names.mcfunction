@@ -1,0 +1,7 @@
+summon armor_stand ~0 ~2.5 ~0 {CustomName: '"Glowstone"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_lighting, block_list_lighting_0_0, block_list_lighting_0_0_0]}
+summon armor_stand ~0 ~2.74 ~0 {CustomName: '"Sea Lantern"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_lighting, block_list_lighting_0_0, block_list_lighting_0_0_1]}
+summon armor_stand ~0 ~2.98 ~0 {CustomName: '"Shroomlight"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_lighting, block_list_lighting_0_0, block_list_lighting_0_0_2]}
+summon armor_stand ~0 ~3.22 ~0 {CustomName: '"Ochre Froglight"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_lighting, block_list_lighting_0_0, block_list_lighting_0_0_3]}
+summon armor_stand ~0 ~3.46 ~0 {CustomName: '"Pearlescent Froglight"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_lighting, block_list_lighting_0_0, block_list_lighting_0_0_4]}
+summon armor_stand ~0 ~3.7 ~0 {CustomName: '"Verdant Froglight"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_lighting, block_list_lighting_0_0, block_list_lighting_0_0_5]}
+summon armor_stand ~0 ~3.94 ~0 {CustomName: '"End Rod"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_lighting, block_list_lighting_0_0, block_list_lighting_0_0_6]}

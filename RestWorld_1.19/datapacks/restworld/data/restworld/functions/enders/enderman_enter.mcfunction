@@ -1,0 +1,1 @@
+execute unless entity @e[type=enderman, distance=..5] run summon enderman ~0 ~2 ~0 {CustomName: '"Enderman"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [0f, 0f], Silent: true, Tags: [enders, enderman, adult]}

@@ -1,0 +1,2 @@
+summon turtle ~0 ~2 ~0.2 {CustomName: '"Turtle"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [180f, 0f], Silent: true, Tags: [friendlies, turtle, adult]}
+summon turtle ~0 ~2 ~-1.8 {Age: -2147483648, CustomName: '"Turtle"', CustomNameVisible: false, IsBaby: true, NoAI: true, PersistenceRequired: true, Rotation: [180f, 0f], Silent: true, Tags: [friendlies, turtle, kid]}

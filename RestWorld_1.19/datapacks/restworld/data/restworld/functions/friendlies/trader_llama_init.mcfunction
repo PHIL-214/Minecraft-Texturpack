@@ -1,0 +1,2 @@
+summon wandering_trader ~0 ~2 ~-2 {CustomName: '"Wandering Trader"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [friendlies, wandering_trader, adult]}
+summon trader_llama ~0 ~2 ~0 {CustomName: '"Trader Llama"', CustomNameVisible: false, DespawnDelay: 2147483647, Leashed: true, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [friendlies, trader_llama, adult]}

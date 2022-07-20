@@ -1,0 +1,1 @@
+summon armor_stand ~-1.5 ~3.0 ~0 {Invisible:true,Small:true,NoGravity:true,Tags:[adult,monsters,monsters_mobs],PersistenceRequired:True,NoAI:True,Silent:True,Rotation:[90f,0f],Passengers:[{id:"phantom",Tags:[adult,monsters,monsters_mobs,passenger],CustomName:"\"Phantom\"",PersistenceRequired:True,NoAI:True,Silent:True,Rotation:[90f,0f]}]}

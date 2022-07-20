@@ -1,0 +1,1 @@
+function restworld:blocks/_finish_main

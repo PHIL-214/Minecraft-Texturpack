@@ -1,0 +1,15 @@
+item replace block ~-1 ~1 ~0 container.0 with music_disc_13
+item replace block ~-1 ~1 ~0 container.1 with music_disc_cat
+item replace block ~-1 ~1 ~0 container.2 with music_disc_blocks
+item replace block ~-1 ~1 ~0 container.3 with music_disc_chirp
+item replace block ~-1 ~1 ~0 container.4 with music_disc_far
+item replace block ~-1 ~1 ~0 container.5 with music_disc_mall
+item replace block ~-1 ~1 ~0 container.6 with music_disc_mellohi
+item replace block ~-1 ~1 ~0 container.7 with music_disc_stal
+item replace block ~-1 ~1 ~0 container.8 with music_disc_strad
+item replace block ~-1 ~1 ~0 container.9 with music_disc_ward
+item replace block ~-1 ~1 ~0 container.10 with music_disc_11
+item replace block ~-1 ~1 ~0 container.11 with music_disc_wait
+item replace block ~-1 ~1 ~0 container.12 with music_disc_otherside
+item replace block ~-1 ~1 ~0 container.13 with music_disc_pigstep
+item replace block ~-1 ~1 ~0 container.14 with music_disc_5

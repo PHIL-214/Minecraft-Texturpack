@@ -1,0 +1,1 @@
+summon armor_stand ~0 ~2 ~0 {Invisible:true,Small:true,NoGravity:true,Tags:[slime,adult,growing,monsters,monsters_mobs],PersistenceRequired:True,NoAI:True,Silent:True,Rotation:[90f,0f],Passengers:[{id:"slime",Tags:[slime,adult,growing,monsters,monsters_mobs,passenger],CustomName:"\"Slime\"",PersistenceRequired:True,NoAI:True,Silent:True,Rotation:[90f,0f]}]}

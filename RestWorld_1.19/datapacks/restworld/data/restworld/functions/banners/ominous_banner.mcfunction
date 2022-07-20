@@ -1,0 +1,1 @@
+setblock ~0 ~0 ~0 white_banner{Patterns: [{Color: 9, Pattern: mr}, {Color: 8, Pattern: bs}, {Color: 7, Pattern: cs}, {Color: 8, Pattern: bo}, {Color: 15, Pattern: ms}, {Color: 8, Pattern: hh}, {Color: 8, Pattern: mc}, {Color: 15, Pattern: bo}]}

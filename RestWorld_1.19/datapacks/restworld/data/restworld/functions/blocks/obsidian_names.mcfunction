@@ -1,0 +1,2 @@
+summon armor_stand ~0 ~2.5 ~0 {CustomName: '"Obsidian"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_obsidian, block_list_obsidian_0_0, block_list_obsidian_0_0_0]}
+summon armor_stand ~0 ~2.74 ~0 {CustomName: '"Crying Obsidian"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_obsidian, block_list_obsidian_0_0, block_list_obsidian_0_0_1]}

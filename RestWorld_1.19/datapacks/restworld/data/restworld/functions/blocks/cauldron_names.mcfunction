@@ -1,0 +1,6 @@
+summon armor_stand ~0 ~2.5 ~0 {CustomName: '"Cauldron"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_cauldron, block_list_cauldron_0_0, block_list_cauldron_0_0_0]}
+summon armor_stand ~0 ~2.74 ~0 {CustomName: '"Water Cauldron Level: 1"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_cauldron, block_list_cauldron_0_0, block_list_cauldron_0_0_1]}
+summon armor_stand ~0 ~2.98 ~0 {CustomName: '"Water Cauldron Level: 2"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_cauldron, block_list_cauldron_0_0, block_list_cauldron_0_0_2]}
+summon armor_stand ~0 ~3.22 ~0 {CustomName: '"Water Cauldron Level: 3"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_cauldron, block_list_cauldron_0_0, block_list_cauldron_0_0_3]}
+summon armor_stand ~0 ~3.46 ~0 {CustomName: '"Lava Cauldron"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_cauldron, block_list_cauldron_0_0, block_list_cauldron_0_0_4]}
+summon armor_stand ~0 ~3.7 ~0 {CustomName: '"Powder Snow Cauldron"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_cauldron, block_list_cauldron_0_0, block_list_cauldron_0_0_5]}

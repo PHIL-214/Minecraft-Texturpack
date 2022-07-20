@@ -1,0 +1,23 @@
+execute at @e[tag=daylight_detector_setup_home] run scoreboard players add daylight_detector_setup funcs 1
+execute at @e[tag=observer_home] run scoreboard players add observer funcs 1
+execute at @e[tag=redstone_wire_home] run scoreboard players add redstone_wire funcs 1
+execute at @e[tag=dispenser_home] run scoreboard players add dispenser funcs 1
+execute at @e[tag=piston_home] run scoreboard players add piston funcs 1
+execute at @e[tag=pressure_plate_home] run scoreboard players add pressure_plate funcs 1
+execute at @e[tag=lightning_rod_home] run scoreboard players add lightning_rod funcs 1
+execute at @e[tag=note_block_home] run scoreboard players add note_block funcs 1
+execute at @e[tag=sculk_home] run scoreboard players add sculk funcs 1
+execute at @e[tag=wire_strength_home] run scoreboard players add wire_strength funcs 1
+execute at @e[tag=target_home] run scoreboard players add target funcs 1
+execute at @e[tag=redstone_room_home] run scoreboard players add redstone_room funcs 1
+execute at @e[tag=rail_home] run scoreboard players add rail funcs 1
+execute at @e[tag=daylight_detector_home] run scoreboard players add daylight_detector funcs 1
+execute at @e[tag=repeater_home] run scoreboard players add repeater funcs 1
+execute at @e[tag=redstone_torch_home] run scoreboard players add redstone_torch funcs 1
+execute at @e[tag=hopper_home] run scoreboard players add hopper funcs 1
+execute at @e[tag=lever_home] run scoreboard players add lever funcs 1
+execute at @e[tag=redstone_block_home] run scoreboard players add redstone_block funcs 1
+execute at @e[tag=wood_power_home] run scoreboard players add wood_power funcs 1
+execute at @e[tag=minecarts_home] run scoreboard players add minecarts funcs 1
+execute at @e[tag=redstone_lamp_home] run scoreboard players add redstone_lamp funcs 1
+function restworld:redstone/_cur

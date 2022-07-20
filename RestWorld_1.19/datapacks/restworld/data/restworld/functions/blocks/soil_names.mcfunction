@@ -1,0 +1,4 @@
+summon armor_stand ~0 ~2.5 ~0 {CustomName: '"Grass Block"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_soil, block_list_soil_0_0, block_list_soil_0_0_0]}
+summon armor_stand ~0 ~2.74 ~0 {CustomName: '"Podzol"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_soil, block_list_soil_0_0, block_list_soil_0_0_1]}
+summon armor_stand ~0 ~2.98 ~0 {CustomName: '"Mycelium"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_soil, block_list_soil_0_0, block_list_soil_0_0_2]}
+summon armor_stand ~0 ~3.22 ~0 {CustomName: '"Dirt Path"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_soil, block_list_soil_0_0, block_list_soil_0_0_3]}

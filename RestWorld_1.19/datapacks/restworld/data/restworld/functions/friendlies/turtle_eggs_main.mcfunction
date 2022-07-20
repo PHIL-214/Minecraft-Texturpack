@@ -1,0 +1,24 @@
+execute unless score turtle_eggs friendlies matches 0.. run function turtle_eggs_init
+execute if score _to_incr friendlies matches 1.. run scoreboard players add turtle_eggs friendlies 1
+scoreboard players set turtle_eggs friendlies_max 4
+scoreboard players operation turtle_eggs friendlies %= turtle_eggs friendlies_max
+execute if score turtle_eggs friendlies matches 0 run setblock ~0 ~2 ~1 turtle_egg[eggs=4, hatch=0]
+execute if score turtle_eggs friendlies matches 0 run setblock ~0 ~2 ~0 turtle_egg[eggs=3, hatch=0]
+execute if score turtle_eggs friendlies matches 0 run setblock ~0 ~2 ~-1 turtle_egg[eggs=2, hatch=0]
+execute if score turtle_eggs friendlies matches 0 run setblock ~0 ~2 ~-2 turtle_egg[eggs=1, hatch=0]
+execute if score turtle_eggs friendlies matches 0 run data merge block ~0 ~2 ~2 {Text3: '"Hatch Age: 0"'}
+execute if score turtle_eggs friendlies matches 1 run setblock ~0 ~2 ~1 turtle_egg[eggs=4, hatch=1]
+execute if score turtle_eggs friendlies matches 1 run setblock ~0 ~2 ~0 turtle_egg[eggs=3, hatch=1]
+execute if score turtle_eggs friendlies matches 1 run setblock ~0 ~2 ~-1 turtle_egg[eggs=2, hatch=1]
+execute if score turtle_eggs friendlies matches 1 run setblock ~0 ~2 ~-2 turtle_egg[eggs=1, hatch=1]
+execute if score turtle_eggs friendlies matches 1 run data merge block ~0 ~2 ~2 {Text3: '"Hatch Age: 1"'}
+execute if score turtle_eggs friendlies matches 2 run setblock ~0 ~2 ~1 turtle_egg[eggs=4, hatch=2]
+execute if score turtle_eggs friendlies matches 2 run setblock ~0 ~2 ~0 turtle_egg[eggs=3, hatch=2]
+execute if score turtle_eggs friendlies matches 2 run setblock ~0 ~2 ~-1 turtle_egg[eggs=2, hatch=2]
+execute if score turtle_eggs friendlies matches 2 run setblock ~0 ~2 ~-2 turtle_egg[eggs=1, hatch=2]
+execute if score turtle_eggs friendlies matches 2 run data merge block ~0 ~2 ~2 {Text3: '"Hatch Age: 2"'}
+execute if score turtle_eggs friendlies matches 3 run setblock ~0 ~2 ~1 turtle_egg[eggs=4, hatch=1]
+execute if score turtle_eggs friendlies matches 3 run setblock ~0 ~2 ~0 turtle_egg[eggs=3, hatch=1]
+execute if score turtle_eggs friendlies matches 3 run setblock ~0 ~2 ~-1 turtle_egg[eggs=2, hatch=1]
+execute if score turtle_eggs friendlies matches 3 run setblock ~0 ~2 ~-2 turtle_egg[eggs=1, hatch=1]
+execute if score turtle_eggs friendlies matches 3 run data merge block ~0 ~2 ~2 {Text3: '"Hatch Age: 1"'}

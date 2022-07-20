@@ -1,0 +1,1 @@
+function restworld:redstone/note_block_finish_fast

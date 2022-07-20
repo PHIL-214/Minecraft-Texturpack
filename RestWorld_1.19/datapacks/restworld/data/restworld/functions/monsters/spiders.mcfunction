@@ -1,0 +1,9 @@
+execute unless score spiders monsters matches 0.. run function spiders_init
+execute if score _to_incr monsters matches 1.. run scoreboard players add spiders monsters 1
+scoreboard players set spiders monsters_max 2
+scoreboard players operation spiders monsters %= spiders monsters_max
+tp @e[tag=spiders] @e[tag=death, limit=1]
+execute if score spiders monsters matches 0 run summon spider ~-0.2 ~2.5 ~-0.2 {CustomName: '"Spider"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [270f, 0f], Silent: true, Tags: [spiders, monsters, spider, adult]}
+execute if score spiders monsters matches 0 run summon cave_spider ~-0.2 ~2.5 ~-2.7 {CustomName: '"Cave Spider"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [270f, 0f], Silent: true, Tags: [spiders, monsters, spider, monsters, cave_spider, adult]}
+execute if score spiders monsters matches 1 run summon spider ~-0.2 ~2.5 ~-0.2 {CustomName: '"Spider"', CustomNameVisible: false, NoAI: true, Passengers: [{ArmorItems: [{}, {}, {}, {Count: 1, id: "minecraft:iron_helmet"}], Facing: east, HandItems: [{Count: 1, id: "minecraft:bow"}, {}], id: skeleton, NoAI: true, PersistenceRequired: true, Rotation: [270f, 0f], Silent: true}], PersistenceRequired: true, Rotation: [270f, 0f], Silent: true, Tags: [spiders, monsters, spider, adult]}
+execute if score spiders monsters matches 1 run summon cave_spider ~-0.2 ~2.5 ~-2.7 {CustomName: '"Cave Spider"', CustomNameVisible: false, NoAI: true, Passengers: [{ArmorItems: [{}, {}, {}, {Count: 1, id: "minecraft:iron_helmet"}], Facing: east, HandItems: [{Count: 1, id: "minecraft:bow"}, {}], id: skeleton, NoAI: true, PersistenceRequired: true, Rotation: [270f, 0f], Silent: true}], PersistenceRequired: true, Rotation: [270f, 0f], Silent: true, Tags: [spiders, monsters, spider, monsters, cave_spider, adult]}

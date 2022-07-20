@@ -1,0 +1,1 @@
+function restworld:particles/small_animal

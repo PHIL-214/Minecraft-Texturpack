@@ -1,0 +1,8 @@
+summon armor_stand ~0 ~2.5 ~0 {CustomName: '"Smooth Basalt"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_0]}
+summon armor_stand ~0 ~2.74 ~0 {CustomName: '"Smooth Stone"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_1]}
+summon armor_stand ~0 ~2.98 ~0 {CustomName: '"Polished Deepslate"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_2]}
+summon armor_stand ~0 ~3.22 ~0 {CustomName: '"Polished Andesite"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_3]}
+summon armor_stand ~0 ~3.46 ~0 {CustomName: '"Polished Diorite"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_4]}
+summon armor_stand ~0 ~3.7 ~0 {CustomName: '"Polished Granite"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_5]}
+summon armor_stand ~0 ~3.94 ~0 {CustomName: '"Polished Blackstone"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_6]}
+summon armor_stand ~0 ~4.18 ~0 {CustomName: '"Polished Basalt"', CustomNameVisible: false, Invisible: true, NoGravity: true, Tags: [block_list, blocks, block_list_stone, block_list_stone_0_0, block_list_stone_0_0_7]}

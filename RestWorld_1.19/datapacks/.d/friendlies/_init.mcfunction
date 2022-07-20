@@ -1,0 +1,75 @@
+scoreboard players set allay funcs 0
+scoreboard players set bat funcs 0
+scoreboard players set bee funcs 0
+scoreboard players set canine funcs 0
+scoreboard players set cat funcs 0
+scoreboard players set chicken funcs 0
+scoreboard players set colored_mobs funcs 0
+scoreboard players set cow funcs 0
+scoreboard players set foxes funcs 0
+scoreboard players set friendlies_room funcs 0
+scoreboard players set frog funcs 0
+scoreboard players set frogspawn funcs 0
+scoreboard players set goat funcs 0
+scoreboard players set horse funcs 0
+scoreboard players set horselike funcs 0
+scoreboard players set iron_golem funcs 0
+scoreboard players set llamas funcs 0
+scoreboard players set llamas_carpets funcs 0
+scoreboard players set ocelot funcs 0
+scoreboard players set panda funcs 0
+scoreboard players set parrot funcs 0
+scoreboard players set pig funcs 0
+scoreboard players set polar_bear funcs 0
+scoreboard players set rabbits funcs 0
+scoreboard players set sheep funcs 0
+scoreboard players set snow_golem funcs 0
+scoreboard players set switch_villagers funcs 0
+scoreboard players set trader_llama funcs 0
+scoreboard players set turtle funcs 0
+scoreboard players set turtle_eggs funcs 0
+scoreboard players set villager_levels funcs 0
+scoreboard players set villager_professions funcs 0
+scoreboard players set villager_types funcs 0
+scoreboard players set which_villagers funcs 0
+scoreboard players set zombie_professions funcs 0
+scoreboard players set zombie_types funcs 0
+
+tp @e[tag=friendlies] @e[tag=death,limit=1]
+
+execute at @e[tag=allay_home] run function restworld:friendlies/allay_init
+execute at @e[tag=bat_home] run function restworld:friendlies/bat_init
+execute at @e[tag=bee_home] run function restworld:friendlies/bee_init
+execute at @e[tag=canine_home] run function restworld:friendlies/canine_init
+execute at @e[tag=cat_home] run function restworld:friendlies/cat_init
+execute at @e[tag=chicken_home] run function restworld:friendlies/chicken_init
+execute at @e[tag=colored_mobs_home] run function restworld:friendlies/colored_mobs_init
+execute at @e[tag=foxes_home] run function restworld:friendlies/foxes_init
+execute at @e[tag=friendlies_room_home] run function restworld:friendlies/friendlies_room_init
+execute at @e[tag=frog_home] run function restworld:friendlies/frog_init
+execute at @e[tag=goat_home] run function restworld:friendlies/goat_init
+execute at @e[tag=horse_home] run function restworld:friendlies/horse_init
+execute at @e[tag=horselike_home] run function restworld:friendlies/horselike_init
+execute at @e[tag=iron_golem_home] run function restworld:friendlies/iron_golem_init
+execute at @e[tag=llamas_home] run function restworld:friendlies/llamas_init
+execute at @e[tag=ocelot_home] run function restworld:friendlies/ocelot_init
+execute at @e[tag=panda_home] run function restworld:friendlies/panda_init
+execute at @e[tag=parrot_home] run function restworld:friendlies/parrot_init
+execute at @e[tag=pig_home] run function restworld:friendlies/pig_init
+execute at @e[tag=polar_bear_home] run function restworld:friendlies/polar_bear_init
+execute at @e[tag=rabbits_home] run function restworld:friendlies/rabbits_init
+execute at @e[tag=sheep_home] run function restworld:friendlies/sheep_init
+execute at @e[tag=snow_golem_home] run function restworld:friendlies/snow_golem_init
+execute at @e[tag=switch_villagers_home] run function restworld:friendlies/switch_villagers_init
+execute at @e[tag=trader_llama_home] run function restworld:friendlies/trader_llama_init
+execute at @e[tag=turtle_eggs_home] run function restworld:friendlies/turtle_eggs_init
+execute at @e[tag=turtle_home] run function restworld:friendlies/turtle_init
+execute at @e[tag=villager_levels_home] run function restworld:friendlies/villager_levels_init
+execute at @e[tag=villager_professions_home] run function restworld:friendlies/villager_professions_init
+execute at @e[tag=villager_types_home] run function restworld:friendlies/villager_types_init
+execute at @e[tag=which_villagers_home] run function restworld:friendlies/which_villagers_init
+execute at @e[tag=zombie_professions_home] run function restworld:friendlies/zombie_professions_init
+execute at @e[tag=zombie_types_home] run function restworld:friendlies/zombie_types_init
+
+
+kill @e[type=item]

@@ -1,0 +1,1 @@
+summon elder_guardian ~2 ~3 ~0 {CustomName: '"Elder Guardian"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [225f, 0f], Silent: true, Tags: [aquatic, elder_guardian, adult]}

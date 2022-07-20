@@ -1,0 +1,6 @@
+summon sheep ~0.2 ~2 ~0 {CustomName: '"Sheep"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [friendlies, colorable, sheep, adult]}
+summon sheep ~-2.0 ~2 ~0.0 {Age: -2147483648, CustomName: '"Sheep"', CustomNameVisible: false, IsBaby: true, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [friendlies, colorable, sheep, kid]}
+summon sheep ~0.2 ~2 ~2 {CustomName: '"Sheared Sheep"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Sheared: true, Silent: true, Tags: [friendlies, sheep, adult]}
+summon sheep ~-2.0 ~2 ~2.0 {Age: -2147483648, CustomName: '"Sheared Sheep"', CustomNameVisible: false, IsBaby: true, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Sheared: true, Silent: true, Tags: [friendlies, sheep, kid]}
+summon sheep ~0.2 ~2 ~4 {CustomName: '"jeb_"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [friendlies, adult]}
+summon sheep ~-2.0 ~2 ~4.0 {Age: -2147483648, CustomName: '"jeb_"', CustomNameVisible: false, IsBaby: true, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [friendlies, kid]}

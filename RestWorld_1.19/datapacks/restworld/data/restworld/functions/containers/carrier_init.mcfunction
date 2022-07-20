@@ -1,0 +1,2 @@
+summon llama ~0 ~2 ~0 {ChestedHorse: true, CustomName: '"Llama"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [carrier, containers, strength_llama, adult], Tame: true, Variant: 2}
+summon donkey ~0 ~2 ~3 {ChestedHorse: true, CustomName: '"Donkey"', CustomNameVisible: false, NoAI: true, PersistenceRequired: true, Rotation: [90f, 0f], Silent: true, Tags: [carrier, containers, adult], Tame: true, Variant: 2}
